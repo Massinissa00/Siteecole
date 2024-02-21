@@ -5,9 +5,10 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #252d7c;
+    color: #6ebe4c;
     padding: 20px;
+    text-align: center;
 }
 
 header h1 {
@@ -29,7 +30,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #85b411;
     text-decoration: none;
 }
 
@@ -43,12 +44,24 @@ section {
 
 footer {
     background-color: #333;
-    color: #fff;
+    color: #624a4a;
     text-align: center;
     padding: 10px 0;
 }
 
+
+
+.center {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    margin-top: 50px;
+}
+
 img {
-    margin-left: 650px;
-    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
